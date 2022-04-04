@@ -8,6 +8,7 @@ public class ClassC1 extends ClassP{
     public void m2()
     {
     	System.out.println("child class method");
+    	System.out.println("bemo branch1 class method");
     }
 
 	public static void main(String[] args) {
